@@ -1,0 +1,3 @@
+C:/Users/ricusca/Downloads/ImageBrowser-master (1)/ImageBrowser-master/CMakeFiles/ImageBrowser.dir
+C:/Users/ricusca/Downloads/ImageBrowser-master (1)/ImageBrowser-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/ricusca/Downloads/ImageBrowser-master (1)/ImageBrowser-master/CMakeFiles/ZERO_CHECK.dir
